@@ -1,7 +1,8 @@
- Hi, I’m Kingsley Muomaife
- I’m interested in Software Development
- I’m currently learning Frontend frameworks and Flutter
- I’m looking to collaborate on Web and Mobile apps projects
+ Hi, I’m Kingsley Muomaife,
+ I’m interested in Software Development,
+ I’m currently learning Frontend frameworks and Flutter,
+ I’m looking to collaborate on Web and Mobile apps projects,
+ 
  📫 muomaifekingsley@gmail.com
 
 
